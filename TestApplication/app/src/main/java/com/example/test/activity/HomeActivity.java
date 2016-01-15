@@ -43,6 +43,7 @@ public class HomeActivity extends Activity {
     private View mView;
     private LayoutInflater mInflater;
     private String test;
+    private String test1;
 
 
     @Override
