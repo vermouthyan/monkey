@@ -42,6 +42,7 @@ public class HomeActivity extends Activity {
     private Button mButton;
     private View mView;
     private LayoutInflater mInflater;
+    private String test;
 
 
     @Override
