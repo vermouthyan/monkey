@@ -47,6 +47,7 @@ public class HomeActivity extends Activity {
     private String test2;
     private String test3;
     private String test5;
+    private String test7;
 
 
     @Override
