@@ -24,7 +24,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.test.testapplication.R;
+import com.example.test.testapplication1.R;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
@@ -64,7 +64,7 @@ public class HomeActivity extends Activity {
     @Override
     public void onContentChanged() {
         super.onContentChanged();
-        Log.e(TAG, "--执行onContentChanged()方法--");
+        Log.e(TAG, "--执行onContentChanged()方法kkkkkkkkkkkkkkkkkkkkkkkkkk--");
         mRl = (RelativeLayout) findViewById(R.id.rl);
         mTextView = (TextView) findViewById(R.id.tv_hello);
         mButton = (Button) findViewById(R.id.btn_go_to);

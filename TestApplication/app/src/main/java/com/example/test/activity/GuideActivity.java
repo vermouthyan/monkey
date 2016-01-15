@@ -16,7 +16,7 @@ import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 import android.widget.ViewSwitcher.ViewFactory;
 
-import com.example.test.testapplication.R;
+import com.example.test.testapplication1.R;
 
 public class GuideActivity extends Activity {
     private ImageSwitcher mImageSwitcher;
@@ -28,6 +28,7 @@ public class GuideActivity extends Activity {
 
     private String filename = "config";
     private String firstRunning = "true";
+
 
 
 
